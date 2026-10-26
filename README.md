@@ -8,11 +8,13 @@
 
 <br/>
 
-**Data Engineer** with a foundation in **Electrical Engineering**. I focus on designing and deploying scalable data pipelines, ETL/ELT workflows, and reliable cloud-based data architectures.
+Electrical Engineer transitioning into Data Engineering. Currently building end-to-end ETL/ELT pipelines and practical cloud data solutions using Python, SQL, and modern data tools.
 
-- 🔭 **Core Specialization:** Data Integration, ETL/ELT pipelines, streaming architectures, and distributed processing.
-- ⚡ **Background:** Combining systems engineering discipline with modern data architecture to build robust solutions.
-- 🎯 **Current Focus:** Lakehouse architecture (Databricks / Delta Lake), real-time ingestion, and analytics engineering.
+🔭 Building & Practicing: Hands-on projects involving batch/streaming ingestion, data modeling, and workflow automation.
+
+⚡ Background: Electrical Engineering discipline applied to analytical problem-solving and structured systems design.
+
+🎯 Current Focus: Deepening expertise in Lakehouse architecture (Databricks / Delta Lake), relational & NoSQL databases, and cloud storage (AWS S3 / Azure).
 
 ---
 
