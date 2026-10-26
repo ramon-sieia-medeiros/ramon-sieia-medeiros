@@ -4,17 +4,17 @@
   <a href="mailto:ramon.medeiros.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-ramon.medeiros.eng%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/ramon-sieia-medeiros-59b536b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <br/>
 
-Electrical Engineer transitioning into Data Engineering. Currently building end-to-end ETL/ELT pipelines and practical cloud data solutions using Python, SQL, and modern data tools.
+**Electrical & Data Engineer** working at the intersection of systems engineering and data infrastructure. Focused on building practical ETL pipelines, structured data architectures, and end-to-end data processing solutions.
 
-🔭 Building & Practicing: Hands-on projects involving batch/streaming ingestion, data modeling, and workflow automation.
-
-⚡ Background: Electrical Engineering discipline applied to analytical problem-solving and structured systems design.
-
-🎯 Current Focus: Deepening expertise in Lakehouse architecture (Databricks / Delta Lake), relational & NoSQL databases, and cloud storage (AWS S3 / Azure).
+- 🔭 **Current Work:** Developing portfolio projects with Python, SQL, databases (SQL/NoSQL), and ETL tools.
+- 🎯 **Focus Areas:** Data Integration, Cloud Storage (AWS S3), and Lakehouse implementations with Databricks.
 
 ---
 
@@ -57,12 +57,4 @@ Electrical Engineer transitioning into Data Engineering. Currently building end-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ramon-sieia-medeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ramon's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-sieia-medeiros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
-
-### 📬 Connect With Me
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramon.medeiros.eng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-sieia-medeiros-59b536b6/)
+  <img src
